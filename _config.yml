@@ -1,0 +1,11 @@
+remote_theme: ISSAE/architect
+
+title: No SQL et Différents Types
+description: Ce site est un tutoriel pour présenter les différents types du NoSQL
+
+author: Sara Hayssoun
+
+author_email: sara.hayssoun@isae.edu.lb
+
+plugins:
+  - jekyll-sitemap
