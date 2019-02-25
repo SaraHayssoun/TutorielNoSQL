@@ -14,6 +14,17 @@ Le NoSQL regroupe 4 grandes familles de bases de données qui diffèrent par la 
 
 ### Les bases de données clé-valeur:
 
+Le but de la famille clé-valeur est l'efficacité et la simplicité. 
+
+Un système clé-valeur agit comme une énorme table de hachage distribuée sur le réseau. 
+
+Tout repose sur le couple Clé/Valeur. La clé identifie la donnée de manière unique et permet de la gérer. La valeur contient n'importe quel type de données.
+
+Il n'y ait ni schéma, ni structure pour le stockage. D'un point de vue de bases de données, il n'y a pas la possibilité d'exploiter ni de contrôler la structure des données.
+
+vous cherchez (la clé) et vous manipulez directement la valeur.
+
+
 ### Les bases de données orientées Documents:
 
 ### Les bases de données orientées Graphes:
