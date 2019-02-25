@@ -27,5 +27,8 @@ vous cherchez (la clé) et vous manipulez directement la valeur.
 
 ### Les bases de données orientées Documents:
 
+Le but des bases de données orientées documents est de manipuler des documents contenant des informations avec une structure complexe (types, listes, imbrications).
+
+
 ### Les bases de données orientées Graphes:
 
