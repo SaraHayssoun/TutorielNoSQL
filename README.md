@@ -34,4 +34,4 @@ Le but des bases de données orientées documents est de manipuler des documents
 
 Ce modèle structure les données sous forme de graphe. C’est à dire un ensemble de nœuds qui peuvent être reliés entre eux par des arcs.
 
-![Base de Données orientée Graphe](https://github.com/SaraHayssoun/TutorielNoSQL/blob/master/images/BD-graph.jpg)
+![Base de Données orientée Graphe](./images/BD-graph.jpg)
