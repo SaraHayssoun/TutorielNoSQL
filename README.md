@@ -25,9 +25,9 @@ Il n'y ait ni schéma, ni structure pour le stockage. D'un point de vue de bases
 
 vous cherchez (la clé) et vous manipulez directement la valeur.
 
-*Cassandra
-*Memcashed
-*Redis
+* Cassandra
+* Memcashed
+* Redis
 
 ![Base de Données clé-valeur (Ref:https://smartylab.org/blog/2018/12/02/tutoriel-nosql-apprenez-les-fonctionnalites-les-types-la-nature-et-les-avantages-de-nosql/)](images/BD-cv.jpg)
 
@@ -35,7 +35,7 @@ vous cherchez (la clé) et vous manipulez directement la valeur.
 
 Ce genre de bases de données permet le stockage des données sous formes de colonnes au lieu de lignes.
 
-*BigTable (base de données de Google)
+* BigTable (base de données de Google)
 
 ![Base de Données orientée Colonnes (Ref:http://michaelmorello.blogspot.com)](images/DB-colonnes.png)
 
@@ -43,8 +43,8 @@ Ce genre de bases de données permet le stockage des données sous formes de col
 
 Le but des bases de données orientées documents est de manipuler des documents contenant des informations avec une structure complexe (types, listes, imbrications).
 
-*MongoDB
-*CouchDB
+* MongoDB
+* CouchDB
 
 ![Base de Données orientées Documents (Ref:https://openclassrooms.com )](images/BD-documents.png)
 
@@ -53,8 +53,8 @@ Le but des bases de données orientées documents est de manipuler des documents
 
 Ce modèle structure les données sous forme de graphe. C’est à dire un ensemble de nœuds qui peuvent être reliés entre eux par des arcs.
 
-*ArangoDB
-*neo4j
-*titan
+* ArangoDB
+* neo4j
+* titan
 
 ![Base de Données orientée Graphe (Ref: https://fr.slideshare.net/MichrafyMustafa/base-de-donnes-graphe-noe4j-concepts-et-mise-en-oeuvre)](images/BD-graph.jpg)
