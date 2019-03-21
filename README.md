@@ -31,6 +31,8 @@ vous cherchez (la clé) et vous manipulez directement la valeur.
 
 ![Base de Données clé-valeur (Ref:https://smartylab.org/blog/2018/12/02/tutoriel-nosql-apprenez-les-fonctionnalites-les-types-la-nature-et-les-avantages-de-nosql/)](images/BD-cv.jpg)
 
+[a relative link](BDCleValeur.md)
+
 ### Les bases de données orientées Colonnes:
 
 Ce genre de bases de données permet le stockage des données sous formes de colonnes au lieu de lignes.
