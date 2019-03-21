@@ -47,8 +47,8 @@ Ce genre de bases de données permet le stockage des données sous formes de col
 
 Le but des bases de données orientées documents est de manipuler des documents contenant des informations avec une structure complexe (types, listes, imbrications).
 
-* MongoDB
-* CouchDB
+* MongoDB ![MongoDB-icon](dbIcons/mongodb.png)
+* CouchDB ![couchDB-icon](dbIcons/couchdb.png)
 
 ![Base de Données orientées Documents (Ref:https://openclassrooms.com )](images/BD-documents.png)
 
@@ -58,9 +58,9 @@ Le but des bases de données orientées documents est de manipuler des documents
 
 Ce modèle structure les données sous forme de graphe. C’est à dire un ensemble de nœuds qui peuvent être reliés entre eux par des arcs.
 
-* ArangoDB
-* neo4j
-* titan
+* ArangoDB ![arangodb-icon](dbIcons/ArangoDB.png)
+* neo4j ![neo4j-icon](dbIcons/neo4j.png)
+* titan ![titan-icon](dbIcons/titan.png)
 
 ![Base de Données orientée Graphe (Ref: https://fr.slideshare.net/MichrafyMustafa/base-de-donnes-graphe-noe4j-concepts-et-mise-en-oeuvre)](images/BD-graph.jpg)
 
