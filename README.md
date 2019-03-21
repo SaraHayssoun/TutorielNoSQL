@@ -37,7 +37,7 @@ vous cherchez (la clé) et vous manipulez directement la valeur.
 
 Ce genre de bases de données permet le stockage des données sous formes de colonnes au lieu de lignes.
 
-* BigTable (base de données de Google)
+* BigTable (base de données de Google) ![bigtable-icon](dbIcons/Bigtable.png)
 
 ![Base de Données orientée Colonnes (Ref:http://michaelmorello.blogspot.com)](images/DB-colonnes.png)
 
