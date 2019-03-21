@@ -27,7 +27,7 @@ vous cherchez (la clé) et vous manipulez directement la valeur.
 
 * Cassandra
 * Memcashed
-* Redis ![redis-icon](dbIcons/redis)
+* Redis ![redis-icon](dbIcons/redis.png)
 
 ![Base de Données clé-valeur (Ref:https://smartylab.org/blog/2018/12/02/tutoriel-nosql-apprenez-les-fonctionnalites-les-types-la-nature-et-les-avantages-de-nosql/)](images/BD-cv.jpg)
 
