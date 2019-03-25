@@ -71,11 +71,10 @@ Ce modèle structure les données sous forme de graphe. C’est à dire un ensem
 
 Les requêtes NoSQL sont construites en utilisant des objets JSON
 
-	```{ 
-		  object: String, 
-		  q: Expression, 
-		  fields: Array of String, 
-		  groupBy: Array of String, 
-		  aggregation: Object mapping fields to aggregate functions
-		   
-		}```
+	{ 
+	  object: String, 
+	  q: Expression, 
+	  fields: Array of String, 
+	  groupBy: Array of String, 
+	  aggregation: Object mapping fields to aggregate functions
+	}
