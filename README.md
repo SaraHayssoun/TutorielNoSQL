@@ -65,3 +65,17 @@ Ce modèle structure les données sous forme de graphe. C’est à dire un ensem
 ![Base de Données orientée Graphe (Ref: https://fr.slideshare.net/MichrafyMustafa/base-de-donnes-graphe-noe4j-concepts-et-mise-en-oeuvre)](images/BD-graph.jpg)
 
 [Savoir Plus](BDGraphes.md)
+
+
+## No SQL Query Language
+
+Les requêtes NoSQL sont construites en utilisant des objets JSON
+
+	```{ 
+		  object: String, 
+		  q: Expression, 
+		  fields: Array of String, 
+		  groupBy: Array of String, 
+		  aggregation: Object mapping fields to aggregate functions
+		   
+		}```
