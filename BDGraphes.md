@@ -15,3 +15,9 @@ supporte :
 * Le langage de requête RDF SPARQL 
 * Le langage impératif (Lamgage des requêtes basées sur le chemin) Gemlin 
 * Le langage déclaratif Cypher.
+
+### Exemple de requêtes utilisant CYPHER
+
+	(emil:Person {name:'Emil'})<-[:KNOWS]-(jim:Person {name:'Jim'})
+ 	-[:KNOWS]->(ian:Person {name:'Ian'})
+ 	-[:KNOWS]->(emil)
