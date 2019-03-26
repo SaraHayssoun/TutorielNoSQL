@@ -8,4 +8,10 @@ chaque noeud représente une donnée ayant une étiquette ainsi que les arcs rep
 
 ![structure(Ref: https://docs.microsoft.com/en-us/sql/relational-databases/graphs/sql-graph-sample?view=sql-server-2017)](images/relation-graph-example.png)
 
-### 
+### Langage:
+
+Les bases de données orientées graphes ont différentes manières pour manipuler les données. Plusieurs BD, comme Neo4j,
+supporte : 
+* Le langage de requête RDF SPARQL 
+* Le langage impératif (Lamgage des requêtes basées sur le chemin) Gemlin 
+* Le langage déclaratif Cypher.
